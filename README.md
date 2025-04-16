@@ -10,7 +10,7 @@
 <br>This file will take a numerical input and prompts back if the given number is ODD or Even Number.
 <br><b> Assignment2_Task2: </b> 
 <br>This file shows the Sum of Intergers from 1 to 50, used range and for loop to achieve it.
-<b> Assignment3_Task1: </b> 
+<br> <b> Assignment3_Task1: </b> 
 <br>This file has function defined to canculate factorial of a given number, used return in function and accurately print the returned result.
 <br><b> Assignment3_Task2: </b> 
 <br>This file module import code and successfully imported math and performed sqrt, log, sin operations for a given number using math module.
