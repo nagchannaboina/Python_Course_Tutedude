@@ -19,4 +19,11 @@
 <br>
 <br><b> Assignment3_Task2: </b> 
 <br>This file module import code and successfully imported math and performed sqrt, log, sin operations for a given number using math module.
+<br>
+<br> <b> Assignment4_Task1: </b> 
+<br>This file has code to open the file and read the contents of the file and error handling to classify the known error.
+<br>
+<br><b> Assignment4_Task2: </b> 
+<br>This file has code to open a file in write mode and add content to the file and append the contents of the file and print content of the file.
+
 
