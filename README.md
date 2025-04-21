@@ -25,5 +25,11 @@
 <br>
 <br><b> Assignment4_Task2: </b> 
 <br>This file has code to open a file in write mode and add content to the file and append the contents of the file and print content of the file.
+<br>
+<br> <b> Assignment5_Task1: </b> 
+<br>This file has code to search for students marks in a dictionary and get the result printed in a new line with the marks and if the student is not exists in dictionary promprts the same.
+<br>
+<br><b> Assignment5_Task2: </b> 
+<br>This file has list of range first 10 integers > 0 and shows first five elements and it's reverse.
 
 
