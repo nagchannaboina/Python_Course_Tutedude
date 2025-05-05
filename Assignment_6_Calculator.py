@@ -8,8 +8,6 @@ window.configure(bg="lightgrey")
 label = Label(window, text="This Calculator is made using Tkinter!", font=("Arial", 16))
 label.pack(pady=10)
 
-
-
 e = Entry(window, width=26, borderwidth=5, font=("Lucida Console", 20))
 e.place(x=10, y=50)
 
