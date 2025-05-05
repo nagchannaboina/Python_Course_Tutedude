@@ -1,14 +1,13 @@
 from tkinter import *
 
-
 window = Tk()
 window.title("Calculator_App_with_Tkinter")
 window.geometry("450x350")
 window.configure(bg="lightgrey")
-label = Label(window, text="This Calculator is made using Tkinter!", font=("Arial", 16))
+label = Label(window, text="This Calculator is made using Tkinter!", font=("Arial", 16), bg='lightgrey')
 label.pack(pady=10)
 
-e = Entry(window, width=26, borderwidth=5, font=("Lucida Console", 20))
+e = Entry(window, width=26, borderwidth=5, font=("Lucida Console", 20), bg="black", fg="lime", justify="right", relief="sunken" )
 e.place(x=10, y=50)
 
 def click(num):
