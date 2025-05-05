@@ -31,5 +31,8 @@
 <br>
 <br><b> Assignment5_Task2: </b> 
 <br>This file has list of range first 10 integers > 0 and shows first five elements and it's reverse.
+<br>
+<br><b> Assignment6_Calculator: </b> 
+<br>This is an Application made using Tkinter, to build a Calculator. I have used Iphone calculator reference for colors and sytle.
 
 
