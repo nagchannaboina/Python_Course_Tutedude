@@ -34,5 +34,8 @@
 <br>
 <br><b> Assignment6_Calculator: </b> 
 <br>This is an Application made using Tkinter, to build a Calculator. I have used Iphone calculator reference for colors and sytle.
+<br>
+<br><b> Assignment7_Module 12: </b> 
+<br>Please find the Assignment-7-Module-12 PDF which all the practice with screenshots of the results .
 
 
